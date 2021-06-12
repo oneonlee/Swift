@@ -1,2 +1,2 @@
 # Swift
-Studying Swift 🕊️ for developping iOS Application
+Studying Swift 🕊️ for iOS Application development
