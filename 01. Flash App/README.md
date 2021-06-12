@@ -2,6 +2,8 @@
 * 스파르타코딩클럽 - iOS 앱개발 기초반을 수강하면서 배우는 Swift
 
 ## [1주차](https://www.notion.so/iOS-1-8853f9fd744f4334b636944012718273#f28db804624f4af6aa46ec2e3e46610f)
+<img src="screenshot.png" width="30%" height="30%">
+
 ## 1. Xcode 설치 및 사용법 익히기
 * [Xcode 설치](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
   * 설치 후에는 꼭 Xcode를 "실행"시켜서 "컴포넌트 설치"까지 완료해야 한다. 
@@ -82,6 +84,8 @@ print(sumResult) // 3
 ## 5. 스크린 손전등 앱 만들기
 * 스토리보드
   * <img src="storyboard.png" width="30%" height="30%">
+* 결과물
+  * <img src="screenshot.png" width="30%" height="30%">
 * 코드
 ```Swift
 //
@@ -116,5 +120,5 @@ class ViewController: UIViewController {
     }
 }
 ```
-  
+	
   
