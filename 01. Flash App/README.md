@@ -81,7 +81,7 @@ print(sumResult) // 3
 ```
 ## 5. 스크린 손전등 앱 만들기
 * 스토리보드
-  * ![](storyboard.png){: width="50%" height="50%"}
+  * <img src="storyboard.png" width="30%" height="30%">
 * 코드
 ```Swift
 //
